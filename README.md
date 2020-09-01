@@ -11,6 +11,7 @@ A curated collection of open educational content for data visualization and rela
 ## D3
 
  * [Learn D3 by Mike Bostock, 2020](https://observablehq.com/collection/@d3/learn-d3) - "A guided tour of your first steps using D3."
+ * [selection.join by Mike Bostock, 2019](https://observablehq.com/@d3/selection-join) - Canonical example of data joins.
  * [D3 Tutorial by Samuel Gratzl, 2020](https://github.com/sgratzl/d3tutorial) - Introduction to D3 single-page tutorial.
  * [How to learn D3.js by by Amelia Wattenberger, 2020](https://wattenberger.com/blog/d3) - Multi-page interactive tutorial on D3.
 
