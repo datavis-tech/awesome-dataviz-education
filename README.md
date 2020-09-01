@@ -10,5 +10,6 @@ A curated collection of open educational content for data visualization and rela
 
 ## D3
 
+ * [Learn D3 by Mike Bostock, 2020](https://observablehq.com/collection/@d3/learn-d3) - Collection of D3 examples in Observable.
  * [D3 Tutorial by Samuel Gratzl, 2020](https://github.com/sgratzl/d3tutorial) - Introduction to D3 single-page tutorial.
 
