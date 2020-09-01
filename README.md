@@ -1,8 +1,9 @@
 # awesome-dataviz-education
-A curated collection of open educational content for data visualization and related topics.
+A curated collection of open educational content for Data Visualization and Web Technologies.
 
 ## JavaScript
  * [Learn JavaScript - Full Course for Beginners by Beau Carnes, 2018](https://www.youtube.com/watch?time_continue=6&v=PkZNo7MFNFg) - 3 hour video on JavaScript fundamentals.
+ * [Eloquent JavaScript by Marijn Haverbeke, 2018](https://eloquentjavascript.net/) - Book-length set of lessons.
 
 ## Data Manipulation
 
