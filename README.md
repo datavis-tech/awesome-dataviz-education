@@ -12,6 +12,7 @@ A curated collection of open educational content for data visualization and rela
 
  * [Learn D3 by Mike Bostock, 2020](https://observablehq.com/collection/@d3/learn-d3) - "A guided tour of your first steps using D3."
  * [D3 Tutorial by Samuel Gratzl, 2020](https://github.com/sgratzl/d3tutorial) - Introduction to D3 single-page tutorial.
+ * [How to learn D3.js by by Amelia Wattenberger, 2020](https://wattenberger.com/blog/d3) - Multi-page interactive tutorial on D3.
 
 ## React & D3
 
