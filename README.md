@@ -21,3 +21,7 @@ A curated collection of open educational content for data visualization and rela
 ## Vega
 
  * [Introduction to Vega-Lite by Jeffrey Heer, 2019](https://observablehq.com/@uwdata/introduction-to-vega-lite) - Collection of notebooks using [vega-lite-api]()
+
+## Maps
+
+ * [Why all world maps are wrong by Johnny Harris, 2016](https://www.youtube.com/watch?v=kIID5FDi2JQ) - Timeless video on the concept of map projection.
