@@ -8,6 +8,7 @@ A curated collection of open educational content for Data Visualization and Web 
 ## Data Manipulation
 
  * [Learn JS Data by John A Guerra Gómez, 2020](https://observablehq.com/collection/@berkeleyvis/learn-js-data) - Tutorial on data manipulation.
+ * [d3.group, d3.rollup by Philippe Rivière, 2019](https://observablehq.com/@d3/d3-group) - Canonical examples of the new APIs that replace `d3.nest`.
 
 ## D3
 
