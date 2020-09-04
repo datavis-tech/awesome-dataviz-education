@@ -24,6 +24,7 @@ A curated collection of open educational content for Data Visualization and Web 
  * [React + D3 by Amelia Wattenberger, 2020, Web](https://wattenberger.com/blog/react-and-d3) - Interactive single-page tutorial.
  * [Using React (Hooks) with D3 by Muri, 2019, YouTube](https://www.youtube.com/playlist?list=PLDZ4p-ENjbiPo4WH7KdHjh_EMI7Ic8b2B) - Tutorials in a playlist.
  * [Interactive Data Visualization with Vega by Déborah Mesquita, 2019, Medium](https://towardsdatascience.com/interactive-data-visualization-with-vega-ab09e2843d54) - Article intro to Vega
+ * [D3 and React, Together by Shirley Wu, 2018, YouTube](https://www.youtube.com/watch?v=zXBdNDnqV2Q)
 
 ## Vega
 
