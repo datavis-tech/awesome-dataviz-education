@@ -13,7 +13,7 @@ A curated collection of open educational content for Data Visualization and Web 
 ## D3
 
  * [What Makes Software Good? by Mike Bostock, 2016, Medium](https://medium.com/@mbostock/what-makes-software-good-943557f8a488) - Exposition on D3 v4.
- * [selection.join() enter and update duplication by Hugo Elhaj-Lahsen and Philippe Rivière, 2020, GitHub Issue](https://github.com/d3/d3-selection/issues/260) - The new `join` API in a nutshell.
+ * [selection.join() enter and update duplication, 2020, GitHub Issue](https://github.com/d3/d3-selection/issues/260) - The new `join` API in a nutshell.
  * [Learn D3 by Mike Bostock, 2020, Observable](https://observablehq.com/collection/@d3/learn-d3) - "A guided tour of your first steps using D3."
  * [selection.join by Mike Bostock, 2019, Observable](https://observablehq.com/@d3/selection-join) - Canonical example of data joins.
  * [D3 Tutorial by Samuel Gratzl, 2020, GitHub](https://github.com/sgratzl/d3tutorial) - Introduction to D3 single-page tutorial.
