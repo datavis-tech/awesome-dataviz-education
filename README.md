@@ -2,13 +2,13 @@
 A curated collection of open educational content for Data Visualization and Web Technologies.
 
 ## JavaScript
- * [Learn JavaScript - Full Course for Beginners by Beau Carnes, 2018, YouTube](https://www.youtube.com/watch?time_continue=6&v=PkZNo7MFNFg) - 3 hour video on JavaScript fundamentals.
+ * [Learn JavaScript - Full Course for Beginners by Beau Carnes, 2018, YouTube](https://www.youtube.com/watch?time_continue=6&v=PkZNo7MFNFg) - 3 hour video
  * [Eloquent JavaScript by Marijn Haverbeke, 2018, Web](https://eloquentjavascript.net/) - Book-length set of lessons.
 
 ## Data Manipulation
 
  * [Learn JS Data by John A Guerra Gómez, 2020, Observable](https://observablehq.com/collection/@berkeleyvis/learn-js-data) - Tutorial on data manipulation.
- * [d3.group, d3.rollup by Philippe Rivière, 2019, Observable](https://observablehq.com/@d3/d3-group) - Canonical examples of the new APIs that replace `d3.nest`.
+ * [d3.group, d3.rollup by Philippe Rivière, 2019, Observable](https://observablehq.com/@d3/d3-group) - Examples of new APIs that replace `d3.nest`.
 
 ## D3
 
@@ -35,3 +35,7 @@ A curated collection of open educational content for Data Visualization and Web 
 ## Maps
 
  * [Why all world maps are wrong by Johnny Harris, 2016, YouTube](https://www.youtube.com/watch?v=kIID5FDi2JQ) - Timeless video on the concept of map projection.
+
+## Books
+
+ * [Dataviz books everyone should read, 2019, information is beautiful](https://informationisbeautiful.net/visualizations/dataviz-books/) - Curated book list.
