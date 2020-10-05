@@ -39,3 +39,7 @@ A curated collection of open educational content for Data Visualization and Web 
 ## Books
 
  * [Dataviz books everyone should read, 2019, information is beautiful](https://informationisbeautiful.net/visualizations/dataviz-books/) - Curated book list.
+ 
+## Paid Courses
+
+ * [Introduction to D3.js by Shirley Wu, 2020, Frontend Masters](https://frontendmasters.com/courses/d3/) - 6 hour video course.
