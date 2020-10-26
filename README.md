@@ -40,6 +40,7 @@ A curated collection of open educational content for Data Visualization and Web 
 ## Books
 
  * [Dataviz books everyone should read, 2019, information is beautiful](https://informationisbeautiful.net/visualizations/dataviz-books/) - Curated book list.
+ * [Data Visualization Book Reviews, 2020, Nadieh Bremer](https://www.visualcinnamon.com/resources/learning-data-visualization/books) - Reviews and thoughts on the content and usefulness of books.
  
 ## Paid Courses
 
