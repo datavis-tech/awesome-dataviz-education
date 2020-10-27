@@ -40,8 +40,13 @@ A curated collection of open educational content for Data Visualization and Web 
 ## Books
 
  * [Dataviz books everyone should read, 2019, information is beautiful](https://informationisbeautiful.net/visualizations/dataviz-books/) - Curated book list.
- * [Data Visualization Book Reviews, 2020, Nadieh Bremer](https://www.visualcinnamon.com/resources/learning-data-visualization/books) - Reviews and thoughts on the content and usefulness of books.
- 
+ * [Data Visualization Book Reviews by Nadieh Bremer, 2020, Web](https://www.visualcinnamon.com/resources/learning-data-visualization/books) - Reviews and thoughts on the content and usefulness of books.
+
+## Papers
+
+ * [Polaris: A System for Query, Analysis, and Visualization of Multidimensional Relational Databases by
+Chris Stolte, Diane Tang and Pat Hanrahan, 2002, IEEE TVCG](https://graphics.stanford.edu/papers/polaris_extended/polaris.pdf) - Seminal paper that lead to Tableau.
+
 ## Paid Courses
 
  * [Introduction to D3.js by Shirley Wu, 2020, Frontend Masters](https://frontendmasters.com/courses/d3/) - 6 hour video course.
