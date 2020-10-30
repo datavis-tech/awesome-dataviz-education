@@ -1,6 +1,9 @@
 # awesome-dataviz-education
 A curated collection of open educational content for Data Visualization and Web Technologies.
 
+## Data Visualization
+ * [EagerEyes TV by Robert Kosara, 2020, YouTube/Blog](https://eagereyes.org/tag/eagereyes-tv) - Amazing video series on data visualization.
+
 ## JavaScript
  * [Learn JavaScript - Full Course for Beginners by Beau Carnes, 2018, YouTube](https://www.youtube.com/watch?time_continue=6&v=PkZNo7MFNFg) - 3 hour video
  * [Eloquent JavaScript by Marijn Haverbeke, 2018, Web](https://eloquentjavascript.net/) - Book-length set of lessons.
