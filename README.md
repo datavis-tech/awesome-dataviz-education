@@ -3,6 +3,8 @@ A curated collection of open educational content for Data Visualization and Web 
 
 ## Data Visualization
  * [EagerEyes TV by Robert Kosara, 2020, YouTube/Blog](https://eagereyes.org/tag/eagereyes-tv) - Amazing video series on data visualization.
+ * [IEEE Vis Conference talks 2013-2019, Vimeo/Web](https://jamesscottbrown.github.io/vis-videos/index.html)
+ * [IEEE Vis Conference talks 2020, YouTube](https://www.youtube.com/channel/UCBJDy-9NtG3Db0YcuqNugiw)
 
 ## JavaScript
  * [Learn JavaScript - Full Course for Beginners by Beau Carnes, 2018, YouTube](https://www.youtube.com/watch?time_continue=6&v=PkZNo7MFNFg) - 3 hour video
