@@ -49,6 +49,7 @@ A curated collection of open educational content for Data Visualization and Web 
 
  * [Polaris: A System for Query, Analysis, and Visualization of Multidimensional Relational Databases by
 Chris Stolte, Diane Tang and Pat Hanrahan, 2002, IEEE TVCG](https://graphics.stanford.edu/papers/polaris_extended/polaris.pdf) - Seminal paper that lead to Tableau.
+ * [imMens: Real-time Visual Querying of Big Data](https://sfu-db.github.io/cmpt884-fall16/Papers/immens.pdf) - Great overview of data reduction techniques (section 3).
 
 ## Paid Courses
 
