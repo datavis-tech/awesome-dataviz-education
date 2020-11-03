@@ -53,6 +53,10 @@ A curated collection of open educational content for Data Visualization and Web 
 Chris Stolte, Diane Tang and Pat Hanrahan, 2002, IEEE TVCG](https://graphics.stanford.edu/papers/polaris_extended/polaris.pdf) - Seminal paper that lead to Tableau.
  * [imMens: Real-time Visual Querying of Big Data](https://sfu-db.github.io/cmpt884-fall16/Papers/immens.pdf) - Great overview of data reduction techniques (section 3).
 
+## Blogs
+
+ * [Visualising Data by Andy Kirk, 2010-2020, Web](https://www.visualisingdata.com/blog/) - Amazing blog, particularly the "BEST OF THE VISUALISATION WEB" collection.
+
 ## Paid Courses
 
  * [Introduction to D3.js by Shirley Wu, 2020, Frontend Masters](https://frontendmasters.com/courses/d3/) - 6 hour video course.
