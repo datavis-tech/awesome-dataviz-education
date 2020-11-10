@@ -51,6 +51,7 @@ Chris Stolte, Diane Tang and Pat Hanrahan, 2002, IEEE TVCG](https://graphics.sta
 
 ## Blogs
  * [Visualising Data by Andy Kirk, 2010-2020, Web](https://www.visualisingdata.com/blog/) - Amazing blog, particularly the "BEST OF THE VISUALISATION WEB" collection.
+ * [FlowingData by Nathan Yau, Web, 2020](https://flowingdata.com/) - Highlights of visualization work and resources.
 
 ## Paid Courses
  * [Introduction to D3.js by Shirley Wu, 2020, Frontend Masters](https://frontendmasters.com/courses/d3/) - 6 hour video course.
