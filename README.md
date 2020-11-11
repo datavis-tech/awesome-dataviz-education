@@ -19,6 +19,7 @@ A curated collection of open educational content for Data Visualization and Web 
  * [d3.group, d3.rollup by Philippe Rivière, 2019, Observable](https://observablehq.com/@d3/d3-group) - Examples of new APIs that replace `d3.nest`.
 
 ## D3
+ * [Touring the D3 Ecosystem by Ian Johnson, 2020, Observable](https://observablehq.com/@enjalot/touring-the-d3-ecosystem) - Index of D3 related links.
  * [What Makes Software Good? by Mike Bostock, 2016, Medium](https://medium.com/@mbostock/what-makes-software-good-943557f8a488) - Exposition on D3 v4.
  * [selection.join() enter and update duplication, 2020, GitHub Issue](https://github.com/d3/d3-selection/issues/260) - The new `join` API in a nutshell.
  * [selection.join by Mike Bostock, 2019, Observable](https://observablehq.com/@d3/selection-join) - Canonical example of data joins.
