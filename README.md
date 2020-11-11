@@ -30,7 +30,8 @@ A curated collection of open educational content for Data Visualization and Web 
  * [selection.join by Mike Bostock, 2019, Observable](https://observablehq.com/@d3/selection-join) - Canonical example of data joins.
  * [What Makes Software Good? by Mike Bostock, 2016, Medium](https://medium.com/@mbostock/what-makes-software-good-943557f8a488) - Exposition on D3 v4.
 
-## React & D3
+## React & D3|
+ * [Datavis 2020 by Curran Kelleher, 2020](https://datavis.tech/datavis-2020/) - Video course with code examples on React & D3 & Viz Theory.
  * [React + D3 by Amelia Wattenberger, 2020, Web](https://wattenberger.com/blog/react-and-d3) - Interactive single-page tutorial.
  * [Using React (Hooks) with D3 by Muri, 2019, YouTube](https://www.youtube.com/playlist?list=PLDZ4p-ENjbiPo4WH7KdHjh_EMI7Ic8b2B) - Tutorials in a playlist.
  * [Interactive Data Visualization with Vega by Déborah Mesquita, 2019, Medium](https://towardsdatascience.com/interactive-data-visualization-with-vega-ab09e2843d54) - Article intro to Vega
