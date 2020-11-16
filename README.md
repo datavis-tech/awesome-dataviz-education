@@ -1,6 +1,8 @@
 # awesome-dataviz-education
 A curated collection of open educational content for Data Visualization and Web Technologies.
 
+Contributions welcome! Feel free to open issues or submit PRs.
+
 ## Data Visualization Theory
  * [EagerEyes TV by Robert Kosara, 2020, YouTube/Blog](https://eagereyes.org/tag/eagereyes-tv) - Amazing video series on data visualization.
  * [IEEE Vis Conference talks 2013-2019, Vimeo/Web](https://jamesscottbrown.github.io/vis-videos/index.html)
