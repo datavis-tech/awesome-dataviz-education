@@ -61,4 +61,4 @@ Chris Stolte, Diane Tang and Pat Hanrahan, 2002, IEEE TVCG](https://graphics.sta
 
 ## Paid Courses
  * [Introduction to D3.js by Shirley Wu, 2020, Frontend Masters](https://frontendmasters.com/courses/d3/) - 6 hour video course.
- * [Data Visualization: Customizing Charts for Beauty & Impact by Nadieh Bremer, 2019, Skillshare](https://www.skillshare.com/classes/Data-Visualization-Customizing-Charts-for-Beauty-Impact/84030568) - Course on visualization techniques and approaches.
+ * [Data Visualization: Customizing Charts for Beauty & Impact by Nadieh Bremer, 2019, Skillshare](https://www.skillshare.com/classes/Data-Visualization-Customizing-Charts-for-Beauty-Impact/84030568) - Course on visualization approaches.
