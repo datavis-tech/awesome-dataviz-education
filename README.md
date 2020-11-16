@@ -34,7 +34,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
  * [Data Visualization 2018 Course by Curran Kelleher, 2018, Web](https://curran.github.io/dataviz-course-2018/) - [13 hour video](https://www.youtube.com/watch?v=_8V5o2UHG0E) course with code examples.
  * [What Makes Software Good? by Mike Bostock, 2016, Medium](https://medium.com/@mbostock/what-makes-software-good-943557f8a488) - Exposition on D3 v4.
 
-## React & D3|
+## React & D3
  * [Datavis 2020 by Curran Kelleher, 2020](https://datavis.tech/datavis-2020/) - Video course with code examples on React & D3 & Viz Theory.
  * [React + D3 by Amelia Wattenberger, 2020, Web](https://wattenberger.com/blog/react-and-d3) - Interactive single-page tutorial.
  * [Using React (Hooks) with D3 by Muri, 2019, YouTube](https://www.youtube.com/playlist?list=PLDZ4p-ENjbiPo4WH7KdHjh_EMI7Ic8b2B) - Tutorials in a playlist.
