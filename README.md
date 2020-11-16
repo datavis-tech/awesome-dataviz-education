@@ -28,8 +28,9 @@ Contributions welcome! Feel free to open issues or submit PRs.
  * [How to learn D3.js by Amelia Wattenberger, 2020, Web](https://wattenberger.com/blog/d3) - Multi-page interactive tutorial on D3.
  * [Workshop: Introduction to D3.js by Shirley Wu, 2020, Observable](https://observablehq.com/collection/@sxywu/introduction-to-d3-js) - Collection of workshop material.
  * [D3 6.0 migration guide by Philippe Rivière, 2020, Observable](https://observablehq.com/@d3/d3v6-migration-guide) - Notable differences between v5 and v6.
- * [Data Visualization 2018 Course by Curran Kelleher, 2018](https://curran.github.io/dataviz-course-2018/) - [13 hour video](https://www.youtube.com/watch?v=_8V5o2UHG0E) course with code examples.
+ * [D3 in Depth by Peter Cook, 2019, Web](https://www.d3indepth.com/)
  * [selection.join by Mike Bostock, 2019, Observable](https://observablehq.com/@d3/selection-join) - Canonical example of data joins.
+ * [Data Visualization 2018 Course by Curran Kelleher, 2018, Web](https://curran.github.io/dataviz-course-2018/) - [13 hour video](https://www.youtube.com/watch?v=_8V5o2UHG0E) course with code examples.
  * [What Makes Software Good? by Mike Bostock, 2016, Medium](https://medium.com/@mbostock/what-makes-software-good-943557f8a488) - Exposition on D3 v4.
 
 ## React & D3|
