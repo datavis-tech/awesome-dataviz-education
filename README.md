@@ -10,7 +10,8 @@ Contributions welcome! Feel free to open issues or submit PRs.
  
 ## Visualization Examples
  * [Xenographics by Maarten Lambrechts, 2020](https://xeno.graphics/) - Collection of unusual charts and maps.
-
+ * [D3 Examples Collection, 2020, Observable](https://observablehq.com/@d3) - Official D3 examples.
+ 
 ## JavaScript
  * [Learn JavaScript - Full Course for Beginners by Beau Carnes, 2018, YouTube](https://www.youtube.com/watch?time_continue=6&v=PkZNo7MFNFg) - 3 hour video
  * [Eloquent JavaScript by Marijn Haverbeke, 2018, Web](https://eloquentjavascript.net/) - Book-length set of lessons.
