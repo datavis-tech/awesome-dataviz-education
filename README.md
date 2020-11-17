@@ -7,6 +7,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
  * [EagerEyes TV by Robert Kosara, 2020, YouTube/Blog](https://eagereyes.org/tag/eagereyes-tv) - Amazing video series on data visualization.
  * [IEEE Vis Conference talks 2013-2019, Vimeo/Web](https://jamesscottbrown.github.io/vis-videos/index.html)
  * [IEEE Vis Conference talks 2020, YouTube](https://www.youtube.com/channel/UCBJDy-9NtG3Db0YcuqNugiw)
+ * [Visual Vocabulary, Financial Times, 2018, Web](https://ft-interactive.github.io/visual-vocabulary/) - Awesome vizualization taxonomy.
  
 ## Visualization Examples
  * [Xenographics by Maarten Lambrechts, 2020](https://xeno.graphics/) - Collection of unusual charts and maps.
