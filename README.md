@@ -44,6 +44,11 @@ Contributions welcome! Feel free to open issues or submit PRs.
 
 ## Vega
  * [Introduction to Vega-Lite by Jeffrey Heer, 2019, Observable](https://observablehq.com/@uwdata/introduction-to-vega-lite) - Collection of notebooks using [vega-lite-api](https://vega.github.io/vega-lite-api/)
+ 
+## JavaScript Libraries
+ * [DruidJS](https://github.com/saehm/DruidJS) A JavaScript Library for Dimensionality Reduction.
+ * [Reorder.js](https://github.com/jdfekete/reorder.js/) Library to reorder matrices, inspired by Jacques Bertin.
+ * [Arquero](https://github.com/uwdata/arquero) Library for query processing and transformation of array-backed data tables.
 
 ## Maps
  * [Why all world maps are wrong by Johnny Harris, 2016, YouTube](https://www.youtube.com/watch?v=kIID5FDi2JQ) - Timeless video on the concept of map projection.
