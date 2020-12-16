@@ -68,5 +68,6 @@ Chris Stolte, Diane Tang and Pat Hanrahan, 2002, IEEE TVCG](https://graphics.sta
  * [FlowingData by Nathan Yau, Web, 2020](https://flowingdata.com/) - Highlights of visualization work and resources.
 
 ## Paid Courses
+ * [Fullstack D3 and Data Visualization by Amelia Wattenberger](https://www.newline.co/fullstack-d3) - 8 week video course.
  * [Introduction to D3.js by Shirley Wu, 2020, Frontend Masters](https://frontendmasters.com/courses/d3/) - 6 hour video course.
  * [Data Visualization: Customizing Charts for Beauty & Impact by Nadieh Bremer, 2019, Skillshare](https://www.skillshare.com/classes/Data-Visualization-Customizing-Charts-for-Beauty-Impact/84030568) - Course on visualization approaches.
