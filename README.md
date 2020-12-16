@@ -23,6 +23,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
  * [d3.group, d3.rollup by Philippe Rivière, 2019, Observable](https://observablehq.com/@d3/d3-group) - Examples of new APIs that replace `d3.nest`.
 
 ## D3
+ * [Let's Learn D3.js! (with Shirley Wu) — Learn With Jason, 2020, YouTube](https://www.youtube.com/watch?list=PLz8Iz-Fnk_eTpvd49Sa77NiF8Uqq5Iykx&v=54APpd9TEWk&feature=emb_logo) - Livestream recording of 1:1 teaching session.
  * [Touring the D3 Ecosystem by Ian Johnson, 2020, Observable](https://observablehq.com/@enjalot/touring-the-d3-ecosystem) - Index of D3 related links.
  * [selection.join() enter and update duplication, 2020, GitHub Issue](https://github.com/d3/d3-selection/issues/260) - The new `join` API in a nutshell.
  * [Learn D3 by Mike Bostock, 2020, Observable](https://observablehq.com/collection/@d3/learn-d3) - "A guided tour of your first steps using D3."
