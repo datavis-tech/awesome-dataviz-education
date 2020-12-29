@@ -3,10 +3,18 @@ A curated collection of open educational content for Data Visualization and Web 
 
 Contributions welcome! Feel free to open issues or submit PRs.
 
-## Data Visualization Theory
+## Videos
+ * [Data Visualization Society Fireside Chats, 2020, YouTube/Web](https://www.datavisualizationsociety.com/fireside-chats) - Interview series.
  * [EagerEyes TV by Robert Kosara, 2020, YouTube/Blog](https://eagereyes.org/tag/eagereyes-tv) - Amazing video series on data visualization.
- * [IEEE Vis Conference talks 2013-2019, Vimeo/Web](https://jamesscottbrown.github.io/vis-videos/index.html)
+ * [Let's Learn D3.js! (with Shirley Wu) — Learn With Jason, 2020, YouTube](https://www.youtube.com/watch?list=PLz8Iz-Fnk_eTpvd49Sa77NiF8Uqq5Iykx&v=54APpd9TEWk&feature=emb_logo) - Livestream recording of 1:1 teaching session.
  * [IEEE Vis Conference talks 2020, YouTube](https://www.youtube.com/channel/UCBJDy-9NtG3Db0YcuqNugiw)
+ * [IEEE Vis Conference talks 2013-2019, Vimeo/Web](https://jamesscottbrown.github.io/vis-videos/index.html)
+ * [Using React (Hooks) with D3 by Muri, 2019, YouTube](https://www.youtube.com/playlist?list=PLDZ4p-ENjbiPo4WH7KdHjh_EMI7Ic8b2B) - Tutorials in a playlist.
+ * [D3 and React, Together by Shirley Wu, 2018, YouTube](https://www.youtube.com/watch?v=zXBdNDnqV2Q) - Presentation on React & D3 integration.
+ * [Learn JavaScript - Full Course for Beginners by Beau Carnes, 2018, YouTube](https://www.youtube.com/watch?time_continue=6&v=PkZNo7MFNFg) - 3 hour video
+ 
+
+## Data Visualization Theory
  * [Visual Vocabulary, Financial Times, 2018, Web](https://ft-interactive.github.io/visual-vocabulary/) - Awesome vizualization taxonomy.
  
 ## Visualization Examples
@@ -14,7 +22,6 @@ Contributions welcome! Feel free to open issues or submit PRs.
  * [D3 Examples Collection, 2020, Observable](https://observablehq.com/@d3) - Official D3 examples.
  
 ## JavaScript
- * [Learn JavaScript - Full Course for Beginners by Beau Carnes, 2018, YouTube](https://www.youtube.com/watch?time_continue=6&v=PkZNo7MFNFg) - 3 hour video
  * [Eloquent JavaScript by Marijn Haverbeke, 2018, Web](https://eloquentjavascript.net/) - Book-length set of lessons.
 
 ## Data Manipulation
@@ -23,7 +30,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
  * [d3.group, d3.rollup by Philippe Rivière, 2019, Observable](https://observablehq.com/@d3/d3-group) - Examples of new APIs that replace `d3.nest`.
 
 ## D3
- * [Let's Learn D3.js! (with Shirley Wu) — Learn With Jason, 2020, YouTube](https://www.youtube.com/watch?list=PLz8Iz-Fnk_eTpvd49Sa77NiF8Uqq5Iykx&v=54APpd9TEWk&feature=emb_logo) - Livestream recording of 1:1 teaching session.
+
  * [Touring the D3 Ecosystem by Ian Johnson, 2020, Observable](https://observablehq.com/@enjalot/touring-the-d3-ecosystem) - Index of D3 related links.
  * [selection.join() enter and update duplication, 2020, GitHub Issue](https://github.com/d3/d3-selection/issues/260) - The new `join` API in a nutshell.
  * [Learn D3 by Mike Bostock, 2020, Observable](https://observablehq.com/collection/@d3/learn-d3) - "A guided tour of your first steps using D3."
@@ -39,9 +46,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 ## React & D3
  * [Datavis 2020 by Curran Kelleher, 2020](https://datavis.tech/datavis-2020/) - Video course with code examples on React & D3 & Viz Theory.
  * [React + D3 by Amelia Wattenberger, 2020, Web](https://wattenberger.com/blog/react-and-d3) - Interactive single-page tutorial.
- * [Using React (Hooks) with D3 by Muri, 2019, YouTube](https://www.youtube.com/playlist?list=PLDZ4p-ENjbiPo4WH7KdHjh_EMI7Ic8b2B) - Tutorials in a playlist.
  * [Interactive Data Visualization with Vega by Déborah Mesquita, 2019, Medium](https://towardsdatascience.com/interactive-data-visualization-with-vega-ab09e2843d54) - Article intro to Vega
- * [D3 and React, Together by Shirley Wu, 2018, YouTube](https://www.youtube.com/watch?v=zXBdNDnqV2Q) - Presentation on React & D3 integration.
 
 ## Vega
  * [Introduction to Vega-Lite by Jeffrey Heer, 2019, Observable](https://observablehq.com/@uwdata/introduction-to-vega-lite) - Collection of notebooks using [vega-lite-api](https://vega.github.io/vega-lite-api/)
@@ -69,6 +74,7 @@ Chris Stolte, Diane Tang and Pat Hanrahan, 2002, IEEE TVCG](https://graphics.sta
  * [FlowingData by Nathan Yau, Web, 2020](https://flowingdata.com/) - Highlights of visualization work and resources.
 
 ## Paid Courses
- * [Fullstack D3 and Data Visualization by Amelia Wattenberger](https://www.newline.co/fullstack-d3) - 8 week video course.
+ * [Fullstack D3 and Data Visualization by Amelia Wattenberger, 2020](https://www.newline.co/fullstack-d3) - 8 week video course.
  * [Introduction to D3.js by Shirley Wu, 2020, Frontend Masters](https://frontendmasters.com/courses/d3/) - 6 hour video course.
  * [Data Visualization: Customizing Charts for Beauty & Impact by Nadieh Bremer, 2019, Skillshare](https://www.skillshare.com/classes/Data-Visualization-Customizing-Charts-for-Beauty-Impact/84030568) - Course on visualization approaches.
+ * [React for Data Visualization by Swizec Teller, 2019](https://reactfordataviz.com/)
