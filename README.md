@@ -11,8 +11,8 @@ Contributions welcome! Feel free to open issues or submit PRs.
  * [IEEE Vis Conference talks 2013-2019, Vimeo/Web](https://jamesscottbrown.github.io/vis-videos/index.html)
  * [Using React (Hooks) with D3 by Muri, 2019, YouTube](https://www.youtube.com/playlist?list=PLDZ4p-ENjbiPo4WH7KdHjh_EMI7Ic8b2B) - Tutorials in a playlist.
  * [D3 and React, Together by Shirley Wu, 2018, YouTube](https://www.youtube.com/watch?v=zXBdNDnqV2Q) - Presentation on React & D3 integration.
- * [Learn JavaScript - Full Course for Beginners by Beau Carnes, 2018, YouTube](https://www.youtube.com/watch?time_continue=6&v=PkZNo7MFNFg) - 3 hour video
- 
+ * [Learn JavaScript - Full Course for Beginners by Beau Carnes, 2018, YouTube](https://www.youtube.com/watch?time_continue=6&v=PkZNo7MFNFg) - 3 hour video.
+ * [Tapestry Conference Videos, 2013 - 2018, YouTube](https://www.youtube.com/c/TapestryConference/playlists) - Conference talks.
 
 ## Data Visualization Theory
  * [Visual Vocabulary, Financial Times, 2018, Web](https://ft-interactive.github.io/visual-vocabulary/) - Awesome vizualization taxonomy.
