@@ -78,3 +78,6 @@ Chris Stolte, Diane Tang and Pat Hanrahan, 2002, IEEE TVCG](https://graphics.sta
  * [Introduction to D3.js by Shirley Wu, 2020, Frontend Masters](https://frontendmasters.com/courses/d3/) - 6 hour video course.
  * [Data Visualization: Customizing Charts for Beauty & Impact by Nadieh Bremer, 2019, Skillshare](https://www.skillshare.com/classes/Data-Visualization-Customizing-Charts-for-Beauty-Impact/84030568) - Course on visualization approaches.
  * [React for Data Visualization by Swizec Teller, 2019](https://reactfordataviz.com/)
+
+## Iconic Visualizations
+ * [The Pudding: Human Terrain](https://pudding.cool/2018/10/city_3d/) ([blog](https://blog.mapbox.com/how-the-pudding-team-uses-mapbox-4b5b8577001f) - 3D map of population density.
