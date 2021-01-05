@@ -80,4 +80,4 @@ Chris Stolte, Diane Tang and Pat Hanrahan, 2002, IEEE TVCG](https://graphics.sta
  * [React for Data Visualization by Swizec Teller, 2019](https://reactfordataviz.com/)
 
 ## Iconic Visualizations
- * [The Pudding: Human Terrain](https://pudding.cool/2018/10/city_3d/) ([blog](https://blog.mapbox.com/how-the-pudding-team-uses-mapbox-4b5b8577001f) - 3D map of population density.
+ * [The Pudding: Human Terrain](https://pudding.cool/2018/10/city_3d/) ([blog](https://blog.mapbox.com/how-the-pudding-team-uses-mapbox-4b5b8577001f)) - 3D map of population density.
