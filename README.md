@@ -4,7 +4,7 @@ A curated collection of open educational content for Data Visualization and Web 
 Contributions welcome! Feel free to open issues or submit PRs.
 
 ## Videos
- * [Data Visualization Society Fireside Chats, 2020, YouTube/Web](https://www.datavisualizationsociety.com/fireside-chats) - Interview series.
+ * [Data Visualization Society Fireside Chats, 2020, YouTube/Web](https://www.datavisualizationsociety.com/fireside-chats) - Interview series. See also [DVS YouTube Channel](https://www.youtube.com/channel/UCDvDHr5CYKBrbwaqRs04LPw).
  * [EagerEyes TV by Robert Kosara, 2020, YouTube/Blog](https://eagereyes.org/tag/eagereyes-tv) - Amazing video series on data visualization.
  * [Let's Learn D3.js! (with Shirley Wu) — Learn With Jason, 2020, YouTube](https://www.youtube.com/watch?list=PLz8Iz-Fnk_eTpvd49Sa77NiF8Uqq5Iykx&v=54APpd9TEWk&feature=emb_logo) - Livestream recording of 1:1 teaching session.
  * [IEEE Vis Conference talks 2020, YouTube](https://www.youtube.com/channel/UCBJDy-9NtG3Db0YcuqNugiw)
