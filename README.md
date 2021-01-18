@@ -13,6 +13,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
  * [D3 and React, Together by Shirley Wu, 2018, YouTube](https://www.youtube.com/watch?v=zXBdNDnqV2Q) - Presentation on React & D3 integration.
  * [Learn JavaScript - Full Course for Beginners by Beau Carnes, 2018, YouTube](https://www.youtube.com/watch?time_continue=6&v=PkZNo7MFNFg) - 3 hour video.
  * [Tapestry Conference Videos, 2013 - 2018, YouTube](https://www.youtube.com/c/TapestryConference/playlists) - Conference talks.
+ * [OpenVis Conf Talks, 2017](http://www.openvisconf.com/2017/#videos) - Amazing recorded talks from OpenVis Conf.
 
 ## Data Visualization Theory
  * [Visual Vocabulary, Financial Times, 2018, Web](https://ft-interactive.github.io/visual-vocabulary/) - Awesome vizualization taxonomy.
