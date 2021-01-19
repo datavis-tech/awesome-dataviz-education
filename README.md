@@ -3,6 +3,14 @@ A curated collection of open educational content for Data Visualization and Web 
 
 Contributions welcome! Feel free to open issues or submit PRs.
 
+## Community Spaces
+
+ * [D3 Slack](https://d3-slackin.herokuapp.com/)
+ * [D3 Tulip (new!)](https://d3js.zulipchat.com/)
+ * [Data Visualization Society Slack](https://www.datavisualizationsociety.com/join)
+ * [Observable Forum](https://talk.observablehq.com/)
+ * [VizHub Forum](https://vizhub.com/forum/)
+
 ## Videos
  * [Data Visualization Society Fireside Chats, 2020, YouTube/Web](https://www.datavisualizationsociety.com/fireside-chats) - Interview series. See also [DVS YouTube Channel](https://www.youtube.com/channel/UCDvDHr5CYKBrbwaqRs04LPw).
  * [EagerEyes TV by Robert Kosara, 2020, YouTube/Blog](https://eagereyes.org/tag/eagereyes-tv) - Amazing video series on data visualization.
