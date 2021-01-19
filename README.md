@@ -6,7 +6,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 ## Community Spaces
 
  * [D3 Slack](https://d3-slackin.herokuapp.com/)
- * [D3 Tulip (new!)](https://d3js.zulipchat.com/)
+ * [D3 Zulip (new!)](https://d3js.zulipchat.com/)
  * [Data Visualization Society Slack](https://www.datavisualizationsociety.com/join)
  * [Observable Forum](https://talk.observablehq.com/)
  * [VizHub Forum](https://vizhub.com/forum/)
