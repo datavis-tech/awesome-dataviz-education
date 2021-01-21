@@ -60,10 +60,11 @@ Contributions welcome! Feel free to open issues or submit PRs.
 
 ## Reusable Chart Patterns
 
- * [Towards Reusable Charts by Mike Bostock, 2012](https://bost.ocks.org/mike/chart/)
- * [Towards Updatable D3.js Charts by Rob Moore, 2016](https://www.toptal.com/d3-js/towards-reusable-d3-js-charts)
  * [Reusable D3 Charts and Launching D3 Boilerplate by Neal Humphrey, 2017](http://nhumphrey.com/blog/2017/Reusable-D3-Charts/)
-
+ * [D3 is Now Modular by Chris Viau, 2017](https://medium.com/@christopheviau/d3-js-modularity-d5eed78ba06e)
+ * [Towards Updatable D3.js Charts by Rob Moore, 2016](https://www.toptal.com/d3-js/towards-reusable-d3-js-charts)
+ * [Towards Reusable Charts by Mike Bostock, 2012](https://bost.ocks.org/mike/chart/)
+ 
 ## Vega
  * [Introduction to Vega-Lite by Jeffrey Heer, 2019, Observable](https://observablehq.com/@uwdata/introduction-to-vega-lite) - Collection of notebooks using [vega-lite-api](https://vega.github.io/vega-lite-api/)
  
