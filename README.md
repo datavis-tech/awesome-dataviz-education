@@ -60,6 +60,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 
 ## Reusable Chart Patterns
 
+ * [Building Reusable Data Visualization Components for a Modern Web by Thomas Gonzalez, 2019](https://medium.com/nightingale/building-reusable-data-visualization-components-for-a-modern-web-e3d648d58a7c)
  * [Reusable D3 Charts and Launching D3 Boilerplate by Neal Humphrey, 2017](http://nhumphrey.com/blog/2017/Reusable-D3-Charts/)
  * [D3 is Now Modular by Chris Viau, 2017](https://medium.com/@christopheviau/d3-js-modularity-d5eed78ba06e)
  * [Towards Updatable D3.js Charts by Rob Moore, 2016](https://www.toptal.com/d3-js/towards-reusable-d3-js-charts)
