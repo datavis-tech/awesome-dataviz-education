@@ -63,6 +63,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
  * [Reusable D3 Charts and Launching D3 Boilerplate by Neal Humphrey, 2017](http://nhumphrey.com/blog/2017/Reusable-D3-Charts/)
  * [D3 is Now Modular by Chris Viau, 2017](https://medium.com/@christopheviau/d3-js-modularity-d5eed78ba06e)
  * [Towards Updatable D3.js Charts by Rob Moore, 2016](https://www.toptal.com/d3-js/towards-reusable-d3-js-charts)
+ * [Exploring Reusability with D3.js by Mike Pennisi, 2013](https://bocoup.com/blog/reusability-with-d3)
  * [Towards Reusable Charts by Mike Bostock, 2012](https://bost.ocks.org/mike/chart/)
  
 ## Vega
