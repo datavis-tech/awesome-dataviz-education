@@ -10,6 +10,8 @@ Contributions welcome! Feel free to open issues or submit PRs.
  * [Data Visualization Society Slack](https://www.datavisualizationsociety.com/join)
  * [Observable Forum](https://talk.observablehq.com/)
  * [VizHub Forum](https://vizhub.com/forum/)
+ * [Data-vis-jobs Mailing List](https://groups.google.com/g/data-vis-jobs?pli=1)
+ * [D3 Mailing List)[https://groups.google.com/g/d3-js]
 
 ## Videos
  * [Data Visualization Society Fireside Chats, 2020, YouTube/Web](https://www.datavisualizationsociety.com/fireside-chats) - Interview series. See also [DVS YouTube Channel](https://www.youtube.com/channel/UCDvDHr5CYKBrbwaqRs04LPw).
@@ -33,7 +35,10 @@ Contributions welcome! Feel free to open issues or submit PRs.
 ## JavaScript
  * [Eloquent JavaScript by Marijn Haverbeke, 2018, Web](https://eloquentjavascript.net/) - Book-length set of lessons.
  * [Structure and Interpretation of Computer Programs — JavaScript Adaptation](https://source-academy.github.io/sicp/) - An adaptation of the classic [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) for JS.
- 
+
+## SVG
+ * [Understanding SVG Coordinate Systems and Transformations by Sara Soueidan, 2014](https://www.sarasoueidan.com/blog/svg-coordinate-systems/)
+
 ## Data Manipulation
  * [Learn JS Data by Jim Vallandingham & contributors, 2019, GitHub](http://learnjsdata.com/index.html) - Data cleaning, manipulation, and wrangling in JavaScript.
  * [Learn JS Data by John A Guerra Gómez, 2020, Observable](https://observablehq.com/collection/@berkeleyvis/learn-js-data) - Modernized version.
