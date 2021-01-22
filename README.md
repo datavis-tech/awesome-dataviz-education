@@ -11,7 +11,9 @@ Contributions welcome! Feel free to open issues or submit PRs.
  * [Observable Forum](https://talk.observablehq.com/)
  * [VizHub Forum](https://vizhub.com/forum/)
  * [Data-vis-jobs Mailing List](https://groups.google.com/g/data-vis-jobs?pli=1)
- * [D3 Mailing List)[https://groups.google.com/g/d3-js]
+ * [D3 Mailing List](https://groups.google.com/g/d3-js)
+ * [StackOverflow: Questions tagged [d3.js]](https://stackoverflow.com/questions/tagged/d3.js)
+ * [D3 GitHub Issues](https://github.com/d3)
 
 ## Videos
  * [Data Visualization Society Fireside Chats, 2020, YouTube/Web](https://www.datavisualizationsociety.com/fireside-chats) - Interview series. See also [DVS YouTube Channel](https://www.youtube.com/channel/UCDvDHr5CYKBrbwaqRs04LPw).
