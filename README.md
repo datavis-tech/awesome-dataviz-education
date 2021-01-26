@@ -61,7 +61,6 @@ Contributions welcome! Feel free to open issues or submit PRs.
  * [What Makes Software Good? by Mike Bostock, 2016, Medium](https://medium.com/@mbostock/what-makes-software-good-943557f8a488) - Exposition on D3 v4.
 
 ## React & D3
- * [Datavis 2020 by Curran Kelleher, 2020](https://datavis.tech/datavis-2020/) - Video course with code examples on React & D3 & Viz Theory.
  * [React + D3 by Amelia Wattenberger, 2020, Web](https://wattenberger.com/blog/react-and-d3) - Interactive single-page tutorial.
  * [Interactive Data Visualization with Vega by Déborah Mesquita, 2019, Medium](https://towardsdatascience.com/interactive-data-visualization-with-vega-ab09e2843d54) - Article intro to Vega
 
@@ -107,7 +106,9 @@ Chris Stolte, Diane Tang and Pat Hanrahan, 2002, IEEE TVCG](https://graphics.sta
  * [React for Data Visualization by Swizec Teller, 2019](https://reactfordataviz.com/)
  
 ## Free Courses
- * [Data Visualization Courses by Bill Shander, LinkedIn, 2016-2021](https://www.linkedin.com/learning/instructors/bill-shander)
+ * [Data Visualization Courses by Bill Shander, 2016-2021, LinkedIn](https://www.linkedin.com/learning/instructors/bill-shander)
+ * [Datavis 2020 by Curran Kelleher, 2020, Web](https://datavis.tech/datavis-2020/) - Video course with code examples on React & D3 & Viz Theory.
+ * [Data Visualization Course by Curran Kelleyer, 2018](https://curran.github.io/dataviz-course-2018/)
 
 ## Iconic Visualizations
  * [The Pudding: Human Terrain](https://pudding.cool/2018/10/city_3d/) ([blog](https://blog.mapbox.com/how-the-pudding-team-uses-mapbox-4b5b8577001f)) - 3D map of population density.
