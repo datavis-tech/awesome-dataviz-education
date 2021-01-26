@@ -103,7 +103,11 @@ Chris Stolte, Diane Tang and Pat Hanrahan, 2002, IEEE TVCG](https://graphics.sta
  * [Fullstack D3 and Data Visualization by Amelia Wattenberger, 2020](https://www.newline.co/fullstack-d3) - 8 week video course.
  * [Introduction to D3.js by Shirley Wu, 2020, Frontend Masters](https://frontendmasters.com/courses/d3/) - 6 hour video course.
  * [Data Visualization: Customizing Charts for Beauty & Impact by Nadieh Bremer, 2019, Skillshare](https://www.skillshare.com/classes/Data-Visualization-Customizing-Charts-for-Beauty-Impact/84030568) - Course on visualization approaches.
+ * [Interactive Data Visualization: Getting Started with D3.js - V5 by Bill Shander, 2020](https://www.skillshare.com/classes/Interactive-Data-Visualization-Getting-Started-with-D3-js-V5/2076025291/projects)
  * [React for Data Visualization by Swizec Teller, 2019](https://reactfordataviz.com/)
+ 
+## Free Courses
+ * [Data Visualization Courses by Bill Shander, LinkedIn, 2016-2021](https://www.linkedin.com/learning/instructors/bill-shander)
 
 ## Iconic Visualizations
  * [The Pudding: Human Terrain](https://pudding.cool/2018/10/city_3d/) ([blog](https://blog.mapbox.com/how-the-pudding-team-uses-mapbox-4b5b8577001f)) - 3D map of population density.
