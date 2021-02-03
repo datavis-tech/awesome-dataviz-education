@@ -80,6 +80,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
  * [DruidJS](https://github.com/saehm/DruidJS) A JavaScript Library for Dimensionality Reduction.
  * [Reorder.js](https://github.com/jdfekete/reorder.js/) Library to reorder matrices, inspired by Jacques Bertin.
  * [Arquero](https://github.com/uwdata/arquero) Library for query processing and transformation of array-backed data tables.
+ * [Tidy.js](https://github.com/pbeshai/tidy) Ideas from the R Tidyverse, in JavaScript.
  * [jStat](https://github.com/jstat/jstat) JavaScript Statistical Library.
 
 ## Maps
