@@ -34,6 +34,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 ## Visualization Examples
  * [Xenographics by Maarten Lambrechts, 2020](https://xeno.graphics/) - Collection of unusual charts and maps.
  * [D3 Examples Collection, 2020, Observable](https://observablehq.com/@d3) - Official D3 examples.
+ * [Remaking Figures from Bertin's Semiology of Graphics](https://nicolas.kruchten.com/semiology_of_graphics/)
  
 ## JavaScript
  * [Eloquent JavaScript by Marijn Haverbeke, 2018, Web](https://eloquentjavascript.net/) - Book-length set of lessons.
