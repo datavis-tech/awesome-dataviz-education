@@ -50,6 +50,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 
 ## D3
 
+ * [D3 Discovery](https://d3-discovery.net/) - Finding D3 plugins with ease.
  * [Touring the D3 Ecosystem by Ian Johnson, 2020, Observable](https://observablehq.com/@enjalot/touring-the-d3-ecosystem) - Index of D3 related links.
  * [selection.join() enter and update duplication, 2020, GitHub Issue](https://github.com/d3/d3-selection/issues/260) - The new `join` API in a nutshell.
  * [Learn D3 by Mike Bostock, 2020, Observable](https://observablehq.com/collection/@d3/learn-d3) - "A guided tour of your first steps using D3."
@@ -61,6 +62,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
  * [selection.join by Mike Bostock, 2019, Observable](https://observablehq.com/@d3/selection-join) - Canonical example of data joins.
  * [Data Visualization 2018 Course by Curran Kelleher, 2018, Web](https://curran.github.io/dataviz-course-2018/) - [13 hour video](https://www.youtube.com/watch?v=_8V5o2UHG0E) course with code examples.
  * [What Makes Software Good? by Mike Bostock, 2016, Medium](https://medium.com/@mbostock/what-makes-software-good-943557f8a488) - Exposition on D3 v4.
+
 
 ## React & D3
  * [React + D3 by Amelia Wattenberger, 2020, Web](https://wattenberger.com/blog/react-and-d3) - Interactive single-page tutorial.
