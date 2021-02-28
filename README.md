@@ -138,3 +138,6 @@ Contributions welcome! Feel free to open issues or submit PRs.
 
 - [World Factbook](https://github.com/factbook/factbook.json) - Data on countries.
 - [Our World in Data](https://ourworldindata.org/) - Datasets on various global issues.
+- [Open Weather Map](https://openweathermap.org/api) - Current and forecast weather data.
+- [HDX The Humanitarian Data Exchange](https://data.humdata.org/) - Datasets from UNHCA Services.
+- [Open Develpment Mekong](https://data.opendevelopmentmekong.net/dataset) - Open Data from SE. Asia.
