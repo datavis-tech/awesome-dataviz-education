@@ -110,11 +110,22 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [Polaris: A System for Query, Analysis, and Visualization of Multidimensional Relational Databases by
   Chris Stolte, Diane Tang and Pat Hanrahan, 2002, IEEE TVCG](https://graphics.stanford.edu/papers/polaris_extended/polaris.pdf) - Seminal paper that lead to Tableau.
 - [imMens: Real-time Visual Querying of Big Data](https://sfu-db.github.io/cmpt884-fall16/Papers/immens.pdf) - Great overview of data reduction techniques (section 3).
+- [Awesome visualization research by Matthew Conlen & Sam Petulla](https://github.com/mathisonian/awesome-visualization-research) - Curated list of Awesome visualization research papers, books, blog posts, and other readings.
+- [Data visualization literacy: Definitions, conceptual frameworks, exercises, and assessments](https://www.pnas.org/content/pnas/116/6/1857.full.pdf)
 
 ## Blogs
 
 - [Visualising Data by Andy Kirk, 2010-2020, Web](https://www.visualisingdata.com/blog/) - Amazing blog, particularly the "BEST OF THE VISUALISATION WEB" collection.
 - [FlowingData by Nathan Yau, Web, 2020](https://flowingdata.com/) - Highlights of visualization work and resources.
+- [Storytelling with Data by Cole Nussbaumer](http://www.storytellingwithdata.com/blog)
+- [Information is Beautiful by David McCandless](https://informationisbeautiful.net/)
+- [Junk Charts by Kaiser Fung](http://junkcharts.typepad.com/)
+- [The Pudding by Matt Daniels](https://pudding.cool/)
+- [The Atlas by Quartz Media](https://www.theatlas.com/)
+- [Graphic Detail by The Economist](https://www.economist.com/blogs/graphicdetail)
+- [FiveThirtyEight](http://fivethirtyeight.com/) - Not a blog, FiveThirtyEight is known for data journalism and oftne share their data on Github.
+- [Viz.WTF](http://viz.wtf/) - Blog about visualizations that make no sense.
+- [ r/DataIsUgly ](https://www.reddit.com/r/dataisugly/) - Reddit community sharing often bad data visulizations.
 
 ## Paid Courses
 
@@ -127,7 +138,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 
 - [Interactive Data Visualization: Getting Started with D3.js - V5 by Bill Shander, 2020](https://www.skillshare.com/classes/Interactive-Data-Visualization-Getting-Started-with-D3-js-V5/2076025291/projects)
 - [Data Visualization Courses by Bill Shander, 2016-2021, LinkedIn](https://www.linkedin.com/learning/instructors/bill-shander)
-- [Datavis 2020 by Curran Kelleher, 2020, Web](https://datavis.tech/datavis-2020/) ([17-hour compilation](https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course/)) - Video course with code examples on React & D3 & Viz Theory.
+- [Datavis 2020 by Curran Kelleher, 2020, Web](https://datavis.tech/datavis-2020/) ([17-hour video](https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course/)) - Video course with code examples on React & D3 & Viz Theory.
 - [Data Visualization Course by Curran Kelleher, 2018](https://curran.github.io/dataviz-course-2018/)
 
 ## Iconic Visualizations
