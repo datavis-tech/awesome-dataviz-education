@@ -110,6 +110,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [Polaris: A System for Query, Analysis, and Visualization of Multidimensional Relational Databases by
   Chris Stolte, Diane Tang and Pat Hanrahan, 2002, IEEE TVCG](https://graphics.stanford.edu/papers/polaris_extended/polaris.pdf) - Seminal paper that lead to Tableau.
 - [imMens: Real-time Visual Querying of Big Data](https://sfu-db.github.io/cmpt884-fall16/Papers/immens.pdf) - Great overview of data reduction techniques (section 3).
+- [Awesome visualization research by Matthew Conlen & Sam Petulla](https://github.com/mathisonian/awesome-visualization-research) - Curated list of Awesome visualization research papers, books, blog posts, and other readings.
 
 ## Blogs
 
