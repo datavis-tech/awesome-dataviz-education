@@ -138,8 +138,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 
 - [Interactive Data Visualization: Getting Started with D3.js - V5 by Bill Shander, 2020](https://www.skillshare.com/classes/Interactive-Data-Visualization-Getting-Started-with-D3-js-V5/2076025291/projects)
 - [Data Visualization Courses by Bill Shander, 2016-2021, LinkedIn](https://www.linkedin.com/learning/instructors/bill-shander)
-- [Datavis 2020 by Curran Kelleher, 2020, Web](https://datavis.tech/datavis-2020/) - Video course with code examples on React & D3 & Viz Theory.
-- [Learn Data Visualization in 17 Hours Course 2021](https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course/)
+- [Datavis 2020 by Curran Kelleher, 2020, Web](https://datavis.tech/datavis-2020/) ([17-hour video](https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course/)) - Video course with code examples on React & D3 & Viz Theory.
 - [Data Visualization Course by Curran Kelleher, 2018](https://curran.github.io/dataviz-course-2018/)
 
 ## Iconic Visualizations
