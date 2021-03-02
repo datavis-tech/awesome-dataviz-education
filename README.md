@@ -57,6 +57,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 
 ## D3
 
+- [Guides and Examples by Dan Kerrigan, 2021, Observable](https://observablehq.com/collection/@nyuvis/guides-and-examples) - Nice intro D3 content.
 - [D3 Discovery](https://d3-discovery.net/) - Finding D3 plugins with ease.
 - [Touring the D3 Ecosystem by Ian Johnson, 2020, Observable](https://observablehq.com/@enjalot/touring-the-d3-ecosystem) - Index of D3 related links.
 - [selection.join() enter and update duplication, 2020, GitHub Issue](https://github.com/d3/d3-selection/issues/260) - The new `join` API in a nutshell.
