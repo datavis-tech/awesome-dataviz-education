@@ -36,7 +36,8 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [Visual Vocabulary, Financial Times, 2018, Web](https://ft-interactive.github.io/visual-vocabulary/) - Awesome vizualization taxonomy.
 - [Interactive Chart Chooser](https://depictdatastudio.com/charts/)
 - [The Data Visualisation Catalogue by Severino Ribecca](https://datavizcatalogue.com/index.html)
-- 
+- [Data Viz Project by Ferdio](https://datavizproject.com/)
+- [From Data to Viz](https://www.data-to-viz.com/)
 
 ## Visualization Examples
 
