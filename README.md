@@ -29,6 +29,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [Learn JavaScript - Full Course for Beginners by Beau Carnes, 2018, YouTube](https://www.youtube.com/watch?time_continue=6&v=PkZNo7MFNFg) - 3 hour video.
 - [Tapestry Conference Videos, 2013 - 2018, YouTube](https://www.youtube.com/c/TapestryConference/playlists) - Conference talks.
 - [OpenVis Conf Talks, 2017](http://www.openvisconf.com/2017/#videos) - Amazing recorded talks from OpenVis Conf.
+- [Composing D3.js Visuals with Vue.js Workshop](https://www.youtube.com/watch?v=CkFktv0p3pw)
 
 ## Data Visualization Theory
 
