@@ -31,9 +31,13 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [OpenVis Conf Talks, 2017](http://www.openvisconf.com/2017/#videos) - Amazing recorded talks from OpenVis Conf.
 - [Composing D3.js Visuals with Vue.js Workshop, Jon Snyder, 2018](https://www.youtube.com/watch?v=CkFktv0p3pw)
 
-## Data Visualization Theory
+## Data Visualization Taxonomies
 
 - [Visual Vocabulary, Financial Times, 2018, Web](https://ft-interactive.github.io/visual-vocabulary/) - Awesome vizualization taxonomy.
+- [Interactive Chart Chooser by Ann K. Emery](https://depictdatastudio.com/charts/)
+- [The Data Visualisation Catalogue by Severino Ribecca](https://datavizcatalogue.com/index.html)
+- [Data Viz Project by Ferdio](https://datavizproject.com/)
+- [From Data to Viz](https://www.data-to-viz.com/)
 
 ## Visualization Examples
 
@@ -108,13 +112,13 @@ Contributions welcome! Feel free to open issues or submit PRs.
 
 - [Dataviz books everyone should read, 2019, information is beautiful](https://informationisbeautiful.net/visualizations/dataviz-books/) - Curated book list.
 - [Data Visualization Book Reviews by Nadieh Bremer, 2020, Web](https://www.visualcinnamon.com/resources/learning-data-visualization/books) - Reviews and thoughts on the content and usefulness of books.
+- [Fundamentals of Data Visualization by Claus O. Wilke, 2019, Web (free)](https://clauswilke.com/dataviz/index.html)
 
 ## Papers
 
 - [Polaris: A System for Query, Analysis, and Visualization of Multidimensional Relational Databases by
   Chris Stolte, Diane Tang and Pat Hanrahan, 2002, IEEE TVCG](https://graphics.stanford.edu/papers/polaris_extended/polaris.pdf) - Seminal paper that lead to Tableau.
 - [imMens: Real-time Visual Querying of Big Data](https://sfu-db.github.io/cmpt884-fall16/Papers/immens.pdf) - Great overview of data reduction techniques (section 3).
-- [Awesome visualization research by Matthew Conlen & Sam Petulla](https://github.com/mathisonian/awesome-visualization-research) - Curated list of Awesome visualization research papers, books, blog posts, and other readings.
 - [Data visualization literacy: Definitions, conceptual frameworks, exercises, and assessments](https://www.pnas.org/content/pnas/116/6/1857.full.pdf)
 
 ## Blogs
@@ -140,6 +144,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 
 ## Free Courses
 
+- [One Chart at a Time by Jon Schwabish](https://www.youtube.com/watch?v=gFFj22kjlZk&list=PLfv89tPxlTiVIrwuSBCISiBaGSH1CJR5-)
 - [Interactive Data Visualization: Getting Started with D3.js - V5 by Bill Shander, 2020](https://www.skillshare.com/classes/Interactive-Data-Visualization-Getting-Started-with-D3-js-V5/2076025291/projects)
 - [Data Visualization Courses by Bill Shander, 2016-2021, LinkedIn](https://www.linkedin.com/learning/instructors/bill-shander)
 - [Datavis 2020 by Curran Kelleher, 2020, Web](https://datavis.tech/datavis-2020/) ([17-hour video](https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course/)) - Video course with code examples on React & D3 & Viz Theory.
@@ -158,3 +163,9 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [Open Weather Map](https://openweathermap.org/api) - Current and forecast weather data.
 - [HDX The Humanitarian Data Exchange](https://data.humdata.org/) - Datasets from UNHCA Services.
 - [Open Develpment Mekong](https://data.opendevelopmentmekong.net/dataset) - Open Data from SE. Asia.
+
+## List of Lists
+
+ - [Awesome D3](https://github.com/wbkd/awesome-d3)
+ - [Data Visualisation Resources by Severino Ribecca](https://datavizcatalogue.com/resources.html)
+ - [Awesome visualization research by Matthew Conlen & Sam Petulla](https://github.com/mathisonian/awesome-visualization-research) - Curated list of Awesome visualization research papers, books, blog posts, and other readings.
