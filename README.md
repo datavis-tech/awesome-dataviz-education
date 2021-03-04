@@ -143,6 +143,8 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [Data Visualization Courses by Bill Shander, 2016-2021, LinkedIn](https://www.linkedin.com/learning/instructors/bill-shander)
 - [Datavis 2020 by Curran Kelleher, 2020, Web](https://datavis.tech/datavis-2020/) ([17-hour video](https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course/)) - Video course with code examples on React & D3 & Viz Theory.
 - [Data Visualization Course by Curran Kelleher, 2018](https://curran.github.io/dataviz-course-2018/)
+- [Data Visualization for Storytelling and Discovery by Alberto Cairo, 2018](https://journalismcourses.org/course/data-visualization-for-storytelling-and-discovery/) -  Knight Center for Journalism in the America's massive open online course (MOOC).
+- [Data Journalism and Visualization with Free Tools by Alberto Cairo, Simon Rogers et al., 2019](https://journalismcourses.org/course/data-journalism-and-visualization-with-free-tools/) - Knight Center for Journalism in the America's massive open online course (MOOC) supported by Google.
 
 ## Iconic Visualizations
 
