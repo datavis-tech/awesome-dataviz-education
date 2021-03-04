@@ -31,9 +31,12 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [OpenVis Conf Talks, 2017](http://www.openvisconf.com/2017/#videos) - Amazing recorded talks from OpenVis Conf.
 - [Composing D3.js Visuals with Vue.js Workshop, Jon Snyder, 2018](https://www.youtube.com/watch?v=CkFktv0p3pw)
 
-## Data Visualization Theory
+## Data Visualization Taxonomies
 
 - [Visual Vocabulary, Financial Times, 2018, Web](https://ft-interactive.github.io/visual-vocabulary/) - Awesome vizualization taxonomy.
+- [Interactive Chart Chooser](https://depictdatastudio.com/charts/)
+- [The Data Visualisation Catalogue by Severino Ribecca](https://datavizcatalogue.com/index.html)
+- 
 
 ## Visualization Examples
 
@@ -114,7 +117,6 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [Polaris: A System for Query, Analysis, and Visualization of Multidimensional Relational Databases by
   Chris Stolte, Diane Tang and Pat Hanrahan, 2002, IEEE TVCG](https://graphics.stanford.edu/papers/polaris_extended/polaris.pdf) - Seminal paper that lead to Tableau.
 - [imMens: Real-time Visual Querying of Big Data](https://sfu-db.github.io/cmpt884-fall16/Papers/immens.pdf) - Great overview of data reduction techniques (section 3).
-- [Awesome visualization research by Matthew Conlen & Sam Petulla](https://github.com/mathisonian/awesome-visualization-research) - Curated list of Awesome visualization research papers, books, blog posts, and other readings.
 - [Data visualization literacy: Definitions, conceptual frameworks, exercises, and assessments](https://www.pnas.org/content/pnas/116/6/1857.full.pdf)
 
 ## Blogs
@@ -158,3 +160,9 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [Open Weather Map](https://openweathermap.org/api) - Current and forecast weather data.
 - [HDX The Humanitarian Data Exchange](https://data.humdata.org/) - Datasets from UNHCA Services.
 - [Open Develpment Mekong](https://data.opendevelopmentmekong.net/dataset) - Open Data from SE. Asia.
+
+## List of Lists
+
+ - [Awesome D3](https://github.com/wbkd/awesome-d3)
+ - [Data Visualisation Resources by Severino Ribecca](https://datavizcatalogue.com/resources.html)
+ - [Awesome visualization research by Matthew Conlen & Sam Petulla](https://github.com/mathisonian/awesome-visualization-research) - Curated list of Awesome visualization research papers, books, blog posts, and other readings.
