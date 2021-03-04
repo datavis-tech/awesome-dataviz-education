@@ -40,7 +40,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [Xenographics by Maarten Lambrechts, 2020](https://xeno.graphics/) - Collection of unusual charts and maps.
 - [D3 Examples Collection, 2020, Observable](https://observablehq.com/@d3) - Official D3 examples.
 - [Remaking Figures from Bertin's Semiology of Graphics](https://nicolas.kruchten.com/semiology_of_graphics/)
-- [The D3.js Graph Gallery](https://www.d3-graph-gallery.com/) - Collection of simple charts made with D3.
+- [The D3.js Graph Gallery, Yan Holtz, 2018](https://www.d3-graph-gallery.com/) - Collection of simple charts made with D3.
 
 ## JavaScript
 
