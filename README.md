@@ -34,7 +34,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 ## Data Visualization Taxonomies
 
 - [Visual Vocabulary, Financial Times, 2018, Web](https://ft-interactive.github.io/visual-vocabulary/) - Awesome vizualization taxonomy.
-- [Interactive Chart Chooser](https://depictdatastudio.com/charts/)
+- [Interactive Chart Chooser by Ann K. Emery](https://depictdatastudio.com/charts/)
 - [The Data Visualisation Catalogue by Severino Ribecca](https://datavizcatalogue.com/index.html)
 - [Data Viz Project by Ferdio](https://datavizproject.com/)
 - [From Data to Viz](https://www.data-to-viz.com/)
@@ -112,6 +112,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 
 - [Dataviz books everyone should read, 2019, information is beautiful](https://informationisbeautiful.net/visualizations/dataviz-books/) - Curated book list.
 - [Data Visualization Book Reviews by Nadieh Bremer, 2020, Web](https://www.visualcinnamon.com/resources/learning-data-visualization/books) - Reviews and thoughts on the content and usefulness of books.
+- [Fundamentals of Data Visualization by Claus O. Wilke, 2019, Web (free)](https://clauswilke.com/dataviz/index.html)
 
 ## Papers
 
@@ -143,6 +144,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 
 ## Free Courses
 
+- [One Chart at a Time by Jon Schwabish](https://www.youtube.com/watch?v=gFFj22kjlZk&list=PLfv89tPxlTiVIrwuSBCISiBaGSH1CJR5-)
 - [Interactive Data Visualization: Getting Started with D3.js - V5 by Bill Shander, 2020](https://www.skillshare.com/classes/Interactive-Data-Visualization-Getting-Started-with-D3-js-V5/2076025291/projects)
 - [Data Visualization Courses by Bill Shander, 2016-2021, LinkedIn](https://www.linkedin.com/learning/instructors/bill-shander)
 - [Datavis 2020 by Curran Kelleher, 2020, Web](https://datavis.tech/datavis-2020/) ([17-hour video](https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course/)) - Video course with code examples on React & D3 & Viz Theory.
