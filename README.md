@@ -70,6 +70,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [selection.join by Mike Bostock, 2019, Observable](https://observablehq.com/@d3/selection-join) - Canonical example of data joins.
 - [Data Visualization 2018 Course by Curran Kelleher, 2018, Web](https://curran.github.io/dataviz-course-2018/) - [13 hour video](https://www.youtube.com/watch?v=_8V5o2UHG0E) course with code examples.
 - [What Makes Software Good? by Mike Bostock, 2016, Medium](https://medium.com/@mbostock/what-makes-software-good-943557f8a488) - Exposition on D3 v4.
+-[D3 Documentation on Observable](https://observablehq.com/@fil/d3-documentation-on-observable) 
 
 ## React & D3
 
