@@ -29,6 +29,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [Learn JavaScript - Full Course for Beginners by Beau Carnes, 2018, YouTube](https://www.youtube.com/watch?time_continue=6&v=PkZNo7MFNFg) - 3 hour video.
 - [Tapestry Conference Videos, 2013 - 2018, YouTube](https://www.youtube.com/c/TapestryConference/playlists) - Conference talks.
 - [OpenVis Conf Talks, 2017](http://www.openvisconf.com/2017/#videos) - Amazing recorded talks from OpenVis Conf.
+- [Composing D3.js Visuals with Vue.js Workshop, Jon Snyder, 2018](https://www.youtube.com/watch?v=CkFktv0p3pw)
 
 ## Data Visualization Theory
 
@@ -39,6 +40,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [Xenographics by Maarten Lambrechts, 2020](https://xeno.graphics/) - Collection of unusual charts and maps.
 - [D3 Examples Collection, 2020, Observable](https://observablehq.com/@d3) - Official D3 examples.
 - [Remaking Figures from Bertin's Semiology of Graphics](https://nicolas.kruchten.com/semiology_of_graphics/)
+- [The D3.js Graph Gallery, Yan Holtz, 2018](https://www.d3-graph-gallery.com/) - Collection of simple charts made with D3.
 
 ## JavaScript
 
@@ -70,6 +72,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [selection.join by Mike Bostock, 2019, Observable](https://observablehq.com/@d3/selection-join) - Canonical example of data joins.
 - [Data Visualization 2018 Course by Curran Kelleher, 2018, Web](https://curran.github.io/dataviz-course-2018/) - [13 hour video](https://www.youtube.com/watch?v=_8V5o2UHG0E) course with code examples.
 - [What Makes Software Good? by Mike Bostock, 2016, Medium](https://medium.com/@mbostock/what-makes-software-good-943557f8a488) - Exposition on D3 v4.
+- [D3 Documentation on Observable, Philippe Rivière, 2019](https://observablehq.com/@fil/d3-documentation-on-observable) 
 
 ## React & D3
 
@@ -141,6 +144,8 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [Data Visualization Courses by Bill Shander, 2016-2021, LinkedIn](https://www.linkedin.com/learning/instructors/bill-shander)
 - [Datavis 2020 by Curran Kelleher, 2020, Web](https://datavis.tech/datavis-2020/) ([17-hour video](https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course/)) - Video course with code examples on React & D3 & Viz Theory.
 - [Data Visualization Course by Curran Kelleher, 2018](https://curran.github.io/dataviz-course-2018/)
+- [Data Visualization for Storytelling and Discovery by Alberto Cairo, 2018](https://journalismcourses.org/course/data-visualization-for-storytelling-and-discovery/) -  Knight Center for Journalism in the America's massive open online course (MOOC).
+- [Data Journalism and Visualization with Free Tools by Alberto Cairo, Simon Rogers et al., 2019](https://journalismcourses.org/course/data-journalism-and-visualization-with-free-tools/) - Knight Center for Journalism in the America's massive open online course (MOOC) supported by Google.
 
 ## Iconic Visualizations
 
