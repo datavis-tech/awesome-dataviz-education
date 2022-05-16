@@ -48,6 +48,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 
 ## JavaScript
 
+- [The Modern JavaScript Tutorial by Ilya Kantor, 2022, Web](https://javascript.info/)
 - [Eloquent JavaScript by Marijn Haverbeke, 2018, Web](https://eloquentjavascript.net/) - Book-length set of lessons.
 - [Structure and Interpretation of Computer Programs — JavaScript Adaptation](https://source-academy.github.io/sicp/) - An adaptation of the classic [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) for JS.
 
