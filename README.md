@@ -30,6 +30,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [Tapestry Conference Videos, 2013 - 2018, YouTube](https://www.youtube.com/c/TapestryConference/playlists) - Conference talks.
 - [OpenVis Conf Talks, 2017](http://www.openvisconf.com/2017/#videos) - Amazing recorded talks from OpenVis Conf.
 - [Composing D3.js Visuals with Vue.js Workshop, Jon Snyder, 2018](https://www.youtube.com/watch?v=CkFktv0p3pw)
+- [Kai Chang - Visually Exploring Multidimensional Data](https://www.youtube.com/watch?v=ypc7Ul9LkxA&t=73s)
 
 ## Data Visualization Taxonomies
 
