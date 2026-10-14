@@ -111,6 +111,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 ## Maps
 
 - [Why all world maps are wrong by Johnny Harris, 2016, YouTube](https://www.youtube.com/watch?v=kIID5FDi2JQ) - Timeless video on the concept of map projection.
+- [KoreAves: bird observation evidence map](https://koreaves.com/gis/) - Interactive data-literacy example for interpreting regional bird records in South Korea; its [methodology](https://koreaves.com/methodology/) explains why recorded observations are not population estimates or proof of absence.
 
 ## Books
 
