@@ -46,6 +46,7 @@ Contributions welcome! Feel free to open issues or submit PRs.
 - [D3 Examples Collection, 2020, Observable](https://observablehq.com/@d3) - Official D3 examples.
 - [Remaking Figures from Bertin's Semiology of Graphics](https://nicolas.kruchten.com/semiology_of_graphics/)
 - [The D3.js Graph Gallery, Yan Holtz, 2018](https://www.d3-graph-gallery.com/) - Collection of simple charts made with D3.
+- [ASCII Images Bar Chart Example](https://ascii-images.com/ascii-bar-chart-generator) - An interactive plain-text bar-chart example explaining zero baselines, rounded character cells and shared scales, free without an account.
 
 ## JavaScript
 
