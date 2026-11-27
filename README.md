@@ -173,3 +173,4 @@ Contributions welcome! Feel free to open issues or submit PRs.
  - [Awesome D3](https://github.com/wbkd/awesome-d3)
  - [Data Visualisation Resources by Severino Ribecca](https://datavizcatalogue.com/resources.html)
  - [Awesome visualization research by Matthew Conlen & Sam Petulla](https://github.com/mathisonian/awesome-visualization-research) - Curated list of Awesome visualization research papers, books, blog posts, and other readings.
+- [AshuTeacher](https://ashuteacher.vercel.app) - AI-powered learning PWA & Android app (freemium) with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
